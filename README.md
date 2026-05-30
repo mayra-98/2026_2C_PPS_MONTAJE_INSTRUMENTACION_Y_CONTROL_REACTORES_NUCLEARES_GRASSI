@@ -7,24 +7,12 @@
 
 **Alumno:** Grassi Mayra Anabel
 
-## ✅ Checklist de entrega
-- [ ] Naming correcto del repo: `ANIO_CUATRIMESTRE_TIPO_PROYECTO_APELLIDOS`
-- [ ] Título, autores, materia, **tipo (PPS/PF)**, año y cuatrimestre completos
-- [ ] Brief completo (one-liner + pitch + problema + solución + alcance + estado)
-- [ ] Instrucciones de uso reproducibles (otro puede correrlo)
-- [ ] Lista de componentes con cantidades y modelos
-- [ ] Esquemáticos/planos adjuntos en `PLANOS/`
-- [ ] Fotos / video demostración en `MULTIMEDIA/`
-- [ ] Informe PDF en `INFORMES/` (si aplica)
-
 ## Índice
 - [Introducción](#introducción)
-- [Listado de componentes](#listado-de-componentes)
-- [Esquemáticos / Planos](#esquemáticos--planos)
-- [Fotos / Videos](#fotos--videos)
-- [Estructura del repositorio](#estructura-del-repositorio)
+- [Objetivo](#objetivo)
+- [Detalle del trabajo realizado](#detalle-del-trabajo-realizado)
+- [Conclusiónes](#conclusiónes)
 - [Autor](#autor)
-- [Licencia](#licencia)
 
 ---
 
